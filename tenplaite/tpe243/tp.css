@@ -1,0 +1,60 @@
+.content{
+    display: flex;
+}
+td{
+    padding: 0.5em;
+}
+.center{
+    width: 55%;
+    height: auto;
+    margin: 0 0 0 4em;
+}
+p{
+    display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.3em;
+}
+.gry{
+    color: gray;
+}
+.orange{
+    color: orange;
+}
+img{
+    width: 15em;
+    height: 10em;
+    margin:  0 0 0 4em;
+}
+.blue{
+    background-color: rgb(137, 137, 163);
+    border-color:rgb(101, 101, 165) ;
+}
+table span{
+    color: orange;
+}
+.center table{
+    border-color:rgb(101, 101, 165) ;
+}
+.black{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bolder;
+}
+.souligner{
+    width: 100%;
+    border-bottom:thin solid black;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: large;
+    color: aqua;
+}
+.rigth{
+    margin: 0 0 0 2em;
+    width: 13em;
+    height: auto;
+}
+.logo img{
+    width: 100%;
+    height: 5em;
+    margin: 1em 0 1em 1.5em;
+}
